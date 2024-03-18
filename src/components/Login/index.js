@@ -38,7 +38,7 @@ class Login extends Component{
                   <RightSideHint>Sign in to your account</RightSideHint>
                   <LoginGoogleAndAppleContainer>
                     <GoogleButtonContainer type="button">
-                        <GoogleImage/>
+                        <GoogleImage src="https://res.cloudinary.com/dhwz560kk/image/upload/v1710727413/btdlmlptcunyphtj0vl3.png" alt="google"/>
                         <GoogleSignIn>Sign in with Google</GoogleSignIn>
                     </GoogleButtonContainer>
                     <AppleButtonContainer>
