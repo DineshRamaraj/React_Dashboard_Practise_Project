@@ -47,7 +47,7 @@ const ChartContainer = () => {
       <div className="result-container">
         <div className="result-title-sub-title">
           <h1 className="result-title">Today's schedule</h1>
-          <p className="result-sub-title">See All ></p>
+          <p className="result-sub-title">See All </p>
         </div>
         <ul className="result-list-container">
           <li className="result-item result-item-one">

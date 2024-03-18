@@ -48,13 +48,14 @@ export const RightSideHint = styled.p`
 
 export const LoginGoogleAndAppleContainer = styled.div`
 display: flex;
+flex-direction: column;
 justify-content: space-between;
-padding: 10px 20px;
 width: 100%;
 `
 
 export const GoogleButtonContainer = styled.button`
 display: flex;
+flex-direction: row;
 align-items: center;
 border: none;
 background-color: transparent;
@@ -63,14 +64,13 @@ width: 50%;
 `
 
 export const GoogleImage = styled.img`
-width: 30px;
-height: 30px;
-margin-right: 10px;
+width: 15px;
+height: 15px;
 `
 
 export const GoogleSignIn = styled.p`
 font-family: "Roboto";
-font-size: 16px;
+font-size: 14px;
 `
 
 export const AppleButtonContainer = styled.button`
@@ -83,14 +83,14 @@ width: 50%;
 `
 
 export const AppleImage = styled.img`
-width: 30px;
-height: 30px;
-margin-right: 10px;
+width: 15px;
+height: 15px;
+margin-right: 5px;
 `
 
 export const AppleSignIn = styled.p`
 font-family: "Roboto";
-font-size: 16px;
+font-size: 14px;
 `
 
 
